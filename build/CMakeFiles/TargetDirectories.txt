@@ -1,3 +1,0 @@
-/home/patrik/Projects/raycaster/build/CMakeFiles/raycaster.dir
-/home/patrik/Projects/raycaster/build/CMakeFiles/edit_cache.dir
-/home/patrik/Projects/raycaster/build/CMakeFiles/rebuild_cache.dir

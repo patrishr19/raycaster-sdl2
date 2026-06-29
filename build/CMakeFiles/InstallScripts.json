@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/patrik/Projects/raycaster/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
